@@ -1,0 +1,13 @@
+C:\Users\Yeiyo\source\repos\Los_10_Ejercicios\Los_10_Ejercicios\bin\Debug\netcoreapp3.1\Los_10_Ejercicios.exe
+C:\Users\Yeiyo\source\repos\Los_10_Ejercicios\Los_10_Ejercicios\bin\Debug\netcoreapp3.1\Los_10_Ejercicios.deps.json
+C:\Users\Yeiyo\source\repos\Los_10_Ejercicios\Los_10_Ejercicios\bin\Debug\netcoreapp3.1\Los_10_Ejercicios.runtimeconfig.json
+C:\Users\Yeiyo\source\repos\Los_10_Ejercicios\Los_10_Ejercicios\bin\Debug\netcoreapp3.1\Los_10_Ejercicios.runtimeconfig.dev.json
+C:\Users\Yeiyo\source\repos\Los_10_Ejercicios\Los_10_Ejercicios\bin\Debug\netcoreapp3.1\Los_10_Ejercicios.dll
+C:\Users\Yeiyo\source\repos\Los_10_Ejercicios\Los_10_Ejercicios\bin\Debug\netcoreapp3.1\Los_10_Ejercicios.pdb
+C:\Users\Yeiyo\source\repos\Los_10_Ejercicios\Los_10_Ejercicios\obj\Debug\netcoreapp3.1\Los_10_Ejercicios.AssemblyInfoInputs.cache
+C:\Users\Yeiyo\source\repos\Los_10_Ejercicios\Los_10_Ejercicios\obj\Debug\netcoreapp3.1\Los_10_Ejercicios.AssemblyInfo.cs
+C:\Users\Yeiyo\source\repos\Los_10_Ejercicios\Los_10_Ejercicios\obj\Debug\netcoreapp3.1\Los_10_Ejercicios.csproj.CoreCompileInputs.cache
+C:\Users\Yeiyo\source\repos\Los_10_Ejercicios\Los_10_Ejercicios\obj\Debug\netcoreapp3.1\Los_10_Ejercicios.dll
+C:\Users\Yeiyo\source\repos\Los_10_Ejercicios\Los_10_Ejercicios\obj\Debug\netcoreapp3.1\Los_10_Ejercicios.pdb
+C:\Users\Yeiyo\source\repos\Los_10_Ejercicios\Los_10_Ejercicios\obj\Debug\netcoreapp3.1\Los_10_Ejercicios.genruntimeconfig.cache
+C:\Users\Yeiyo\source\repos\Los_10_Ejercicios\Los_10_Ejercicios\obj\Debug\netcoreapp3.1\Los_10_Ejercicios.csprojAssemblyReference.cache
